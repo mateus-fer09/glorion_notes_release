@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build and binary outputs
+*.exe
+*.zip
+*.tar.gz
+*.dmg
+*.AppImage
+
+# OS metadata
+.DS_Store
+Thumbs.db
