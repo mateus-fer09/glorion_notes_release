@@ -12,12 +12,11 @@ Primeira versão oficial do **Glorion Note** — Workspace Pessoal Local-First c
 
 ---
 
-### 📦 Downloads para Windows
+### 📦 Download para Windows
 
 | Versão | Tipo | Link Direto |
 | :--- | :--- | :--- |
 | **Instalador (Recomendado)** | Setup `.exe` | [Baixar Glorion Note Setup 1.0.0.exe](https://github.com/mateus-fer09/glorion_notes_release/releases/download/v1.0.0/Glorion.Note.Setup.1.0.0.exe) |
-| **Portátil** | Executável Portátil `.exe` | [Baixar Glorion-Note-Portable-1.0.0.exe](https://github.com/mateus-fer09/glorion_notes_release/releases/download/v1.0.0/Glorion-Note-Portable-1.0.0.exe) |
 
 ---
 
